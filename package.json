@@ -1,0 +1,17 @@
+{
+  "name": "freebox-vocale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "prettier": {
+    "singleQuote": true
+  },
+  "license": "MIT",
+  "dependencies": {
+    "got": "^9.6.0",
+    "ws": "^7.0.0"
+  }
+}
