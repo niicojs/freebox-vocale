@@ -11,7 +11,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "ws": "^7.0.0"
   }
 }
